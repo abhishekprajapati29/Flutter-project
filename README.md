@@ -17,6 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Project Images
 
+<img align="right" alt="GIF" src="https://drive.google.com/file/d/1k85X941P33_lfqS_cGQIaPtNgpDIY5yJ/view?usp=sharing" width="400px" width="400px"/>
+
 ![image](https://drive.google.com/file/d/1k85X941P33_lfqS_cGQIaPtNgpDIY5yJ/view?usp=sharing)
 
 ![image description](https://drive.google.com/file/d/1k85X941P33_lfqS_cGQIaPtNgpDIY5yJ/view?usp=sharing)
