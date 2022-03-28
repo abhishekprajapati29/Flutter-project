@@ -20,3 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 ![image](https://drive.google.com/file/d/1k85X941P33_lfqS_cGQIaPtNgpDIY5yJ/view?usp=sharing)
 
 ![image description](https://drive.google.com/file/d/1k85X941P33_lfqS_cGQIaPtNgpDIY5yJ/view?usp=sharing)
+<a href="https://drive.google.com/uc?export=view&id=1k85X941P33_lfqS_cGQIaPtNgpDIY5yJ/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1k85X941P33_lfqS_cGQIaPtNgpDIY5yJ/view?usp=sharing" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
