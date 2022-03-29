@@ -4,10 +4,10 @@ APK LINK - [https://drive.google.com/file/d/1tz7dBCoGcr_ftQTuJDA0kjADSCnuzHiB/vi
 
 ## Description
 
-Markup : * Design and developed a Team and Project Management web application with cloud storage. So, It can easily be retrieved .
-         * Added Multiple Features for userlike Todo, Diary, Notes, Storage for Files and Project Management and more.
-         * It also has the Live Chat feature to the community as well as the private Chat for Confidential Projects and more.
-           * Tech Stack -  `Flutter` `Express.js` `Nodejs` `Django Rest Framework`  `MongoDB`
+* Design and developed a Team and Project Management web application with cloud storage. So, It can easily be retrieved .
+* Added Multiple Features for userlike Todo, Diary, Notes, Storage for Files and Project Management and more.
+* It also has the Live Chat feature to the community as well as the private Chat for Confidential Projects and more.
+* Tech Stack -  `Flutter` `Express.js` `Nodejs` `Django Rest Framework`  `MongoDB`
 
 
 
