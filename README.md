@@ -1,19 +1,18 @@
-# fproject
+# Assign Project
 
-A new Flutter project.
+APK LINK - [https://drive.google.com/file/d/1tz7dBCoGcr_ftQTuJDA0kjADSCnuzHiB/view?usp=sharing](https://drive.google.com/file/d/1tz7dBCoGcr_ftQTuJDA0kjADSCnuzHiB/view?usp=sharing)
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+• Design and developed a Team and Project Management web
+application with cloud storage. So, It can easily be retrieved .
+• Added Multiple Features for userlike Todo, Diary, Notes, Storage for
+Files and Project Management and more.
+• It also has the Live Chat feature to the community as well as the private
+Chat for Confidential Projects and more.
+• Tech Stack - Flutter, Express.js, Nodejs and , Django Rest Framework,
+MongoDB
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 ## Project Images
 
