@@ -16,10 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Project Images
-
-<img align="right" alt="GIF" src="https://drive.google.com/file/d/1k85X941P33_lfqS_cGQIaPtNgpDIY5yJ/view?usp=sharing" width="400px" width="400px"/>
-
-![image](https://drive.google.com/file/d/1k85X941P33_lfqS_cGQIaPtNgpDIY5yJ/view?usp=sharing)
-
-![image description](https://drive.google.com/file/d/1k85X941P33_lfqS_cGQIaPtNgpDIY5yJ/view?usp=sharing)
-<a href="https://drive.google.com/uc?export=view&id=1k85X941P33_lfqS_cGQIaPtNgpDIY5yJ/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1k85X941P33_lfqS_cGQIaPtNgpDIY5yJ/view?usp=sharing" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+![Screenshot_2022-03-28-13-33-08-124_com example fproject](https://user-images.githubusercontent.com/45328242/160681633-73308efb-39c0-4bb0-bb48-fb7fbdb8b2f0.jpg)
